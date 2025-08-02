@@ -1,5 +1,5 @@
 
-![Dafa Saptian F](/github-header-image.png)
+![Dafa Saptian F](/github-header-image-green.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=500&lines=Turning+Data+Into+Decisions;From+Noise+to+Insight+—+Every+Byte+Matters" />
