@@ -5,19 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=500&lines=Turning+Data+Into+Decisions;From+Noise+to+Insight+—+Every+Byte+Matters" />
 </p>
 
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g5NnJudnZqcjh0Zjl1Znk0aDV2YmNlbm12eDgxd3Q0Nm1najhuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8C0UP0SbtVRKAXhoi/giphy.gif" width="250" alt="Data Anime GIF" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&width=500&lines=Data+is+my+language.;Security+is+my+discipline.;Engineering+is+my+framework." />
-</p>
-
----
-
-
 ---
 
 ### 🧠 About Me
@@ -118,5 +105,14 @@ domain: Data Analytics | Data Engineering | Machine Learning | Network & Securit
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g5NnJudnZqcjh0Zjl1Znk0aDV2YmNlbm12eDgxd3Q0Nm1najhuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8C0UP0SbtVRKAXhoi/giphy.gif" width="250" alt="Data Anime GIF" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&width=500&lines=Data+is+my+language.;Security+is+my+discipline.;Engineering+is+my+framework." />
+</p>
 
 > “The goal is to turn data into information, and information into insight.” – Carly Fiorina
