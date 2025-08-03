@@ -112,7 +112,8 @@ domain: Data Analytics | Data Engineering | Machine Learning | Network & Securit
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&width=500&lines=Data+is+my+language.;Security+is+my+discipline.;Engineering+is+my+framework." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=F76D57&center=true&vCenter=true&width=700&lines=The+goal+was+insight...;But+sometimes+instinct+showed+up+first.;Still+worth+pushing." />
 </p>
+
 
 > “The goal is to turn data into information, and information into insight.” – Carly Fiorina
